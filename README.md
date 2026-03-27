@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=500&lines=🌸+Bem-vindo+ao+meu+perfil+do+GitHub+🌸" />
 </p>
 
-## Minhas Estatísticas
-<p align="center">
-  <img src="https://api-github-readme-stats.vercel.app/api?username=natybastazini&show_icons=true&theme=radical" />
-  <img src="https://api-github-readme-stats.vercel.app/api/top-langs/?username=natybastazini&layout=compact&theme=radical" />
-</p>
-
 ## Linguagens e Ferramentas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,kotlin,androidstudio,nodejs,figma,postman" />
