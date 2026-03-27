@@ -8,7 +8,7 @@
 
 ## Linguagens e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,kotlin,androidstudio,nodejs,figma,postman" />
+  <img height="32" src="https://skillicons.dev/icons?i=html,css,js,c,python,java,kotlin,androidstudio,nodejs,figma,postman,mysql" />
 </p>
 
 ---
