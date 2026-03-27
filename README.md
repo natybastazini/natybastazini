@@ -19,7 +19,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:natybastazini7@gmail.com">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=natybastazini7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-E22C62?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/natália-bastazini-4b4b8b31b">
