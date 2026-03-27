@@ -3,15 +3,14 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=🌸+Bem-vindo+ao+meu+perfil+do+GitHub+🌸" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=🌸+Welcome+to+my+GitHub+profile+🌸" />
 </p>
 
-#### Contribuições
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=natybastazini&bg_color=000000&color=E22C62&line=E22C62&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
-#### Linguagens e Ferramentas
+#### Languages and Tools
 <p align="center">
   <img height="32" src="https://skillicons.dev/icons?i=html,css,js,c,python,java,kotlin,androidstudio,nodejs,figma,postman,mysql" />
 </p>
@@ -28,5 +27,5 @@
 </p>
 
 <p align="center">
-  💗 Obrigado por visitar meu perfil 💗
+  💗 Thanks for visiting! 💗
 </p>
