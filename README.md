@@ -1,16 +1,44 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=160&text=Natália%20Bastazini&fontSize=60&fontColor=E22C62&stroke=ffb6d5&strokeWidth=2" />
+</h1>
 
-<!--
-**natybastazini/natybastazini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=25&center=true&vCenter=true&width=500&lines=🌸+Bem-vindo+ao+meu+perfil+do+GitHub+🌸" />
+</p>
+
+## Minhas Estatísticas
+<p align="center">
+  <img src="https://api-github-readme-stats.vercel.app/api?username=natybastazini&show_icons=true&theme=radical" />
+  <img src="https://api-github-readme-stats.vercel.app/api/top-langs/?username=natybastazini&layout=compact&theme=radical" />
+</p>
+---
+
+## Linguagens e Ferramentas
+<div align="center">
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,python,java,kotlin,androidstudio,nodejs,figma,postman" />
+</div>
+
+</div>
+
+---
+
+<!-- <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=natybastazini&color=ff69b4" />
+</p> -->
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-E22C62?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+<p align="center">
+  💗 Obrigado por visitar meu perfil 💗
+</p>
+
