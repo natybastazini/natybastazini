@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=🌸+Bem-vindo+ao+meu+perfil+do+GitHub+🌸" />
 </p>
 
-#### Minhas Estatísticas
+#### Contribuições
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natybastazini&theme=radical&ring=E22C62&fire=E22C62&currStreakLabel=E22C62" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natybastazini&bg_color=000000&color=E22C62&line=E22C62&point=FFFFFF&area=true&hide_border=true" />
 </p>
 
 #### Linguagens e Ferramentas
