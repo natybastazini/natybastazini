@@ -6,8 +6,15 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=20&center=true&vCenter=true&width=500&lines=🌸+Welcome+to+my+GitHub+profile+🌸" />
 </p>
 
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natybastazini"/>
+</p> -->
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=natybastazini&bg_color=000000&color=E22C62&line=E22C62&point=FFFFFF&area=true&hide_border=true" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=natybastazini&theme=radical"
+    alt="GitHub Streak"
+  />
 </p>
 
 #### Languages and Tools
