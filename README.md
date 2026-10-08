@@ -10,12 +10,21 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=natybastazini"/>
 </p> -->
 
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/natybastazini/natybastazini/activity-assets/activity-30d.svg"
+    alt="GitHub activity - last 30 days"
+  />
+</p>
+
+<!-- 
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=natybastazini&theme=radical"
     alt="GitHub Streak"
   />
-</p>
+</p> -->
 
 #### Languages and Tools
 <p align="center">
